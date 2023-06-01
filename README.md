@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Sobre mi:
+🧑‍🎓💻 Estoy estudiando un curso de Grado Superior de Desarrollo de Aplicaciones Web.
 <!--
 **ericsaza/ericsaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
