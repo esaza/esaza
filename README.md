@@ -27,6 +27,14 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de GitHub:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&theme=transparent&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true)
+<p align="center">
+  <a href="https://github.com/ericsaza">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent"/>
+  </a>
+  <a href="https://github.com/ericsaza">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&theme=transparent&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ericsaza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true"/>
+  </a>
+  </p>
