@@ -1,4 +1,4 @@
-### Sobre mi:
+# Sobre mi:
 🧑‍🎓💻 Estoy estudiando un curso de Grado Superior de Desarrollo de Aplicaciones Web.
 
 ## Lenguajes:
