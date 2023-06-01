@@ -12,12 +12,12 @@
 
 ## BD's:
 [![phhMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&color=black&logoColor=blue)](https://www.phpmyadmin.net)
-[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)
+[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red&color=black)](https://www.oracle.com)
 [![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=white&logoColor=darkgreen)](https://www.mongodb.com)
 
 ## Sistemas Operativos:
-[![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=blue&logoColor=white)](https://www.microsoft.com/es-es/windows)
-[![Linux](https://img.shields.io/badge/linux-%23239120.svg?style=for-the-badge&logo=linux&color=orange&logoColor=black)](https://github.com/ericsaza)
+[![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=black&logoColor=blue)](https://www.microsoft.com/es-es/windows)
+[![Linux](https://img.shields.io/badge/linux-%23239120.svg?style=for-the-badge&logo=linux&color=black&logoColor=blue)](https://github.com/ericsaza)
 
 ## Aprendiendo:
 [![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://www.python.org)
