@@ -26,4 +26,6 @@
 [![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://www.python.org)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
 
-# <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> GitHub Stats:
+# <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de GitHub:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&theme=transparent&hide_border=false)
