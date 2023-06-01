@@ -33,6 +33,3 @@
 [![stat](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&hide_border=true&card_width=338&theme=transparent)](https://github.com/ericsaza)
 <p>
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)<br>
-</p>
-[![](https://visitcount.itsvg.in/api?id=ericsaza&label=Profile%20Views&color=12&icon=0&pretty=true)](https://github.com/ericsaza)
-<br>Visitas del perfil: <img src="https://profile-counter.glitch.me/{ericsaza}/count.svg" alt="ericsaza :: Visitor's Count" />
