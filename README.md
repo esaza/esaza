@@ -1,13 +1,14 @@
 ### Sobre mi:
 🧑‍🎓💻 Estoy estudiando un curso de Grado Superior de Desarrollo de Aplicaciones Web.
 
-# Lenguajes de programacion:
+# Lenguajes:
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&color=grey)](https://github.com/ericsaza)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ericsaza)
 
 # BD's:
+[![phhMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&color=grey&logoColor=white)](https://github.com/ericsaza)
+[![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=darkgreen&logoColor=white)](https://github.com/ericsaza)
 <!--
-**ericsaza/ericsaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
