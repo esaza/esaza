@@ -32,9 +32,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent"/>
   </a>
   <a href="https://github.com/ericsaza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&theme=transparent&hide_border=true"/>
-  </a>
-  <a href="https://github.com/ericsaza">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsaza&theme=transparent"/>
   </a>
   <a href="https://github.com/ericsaza">
