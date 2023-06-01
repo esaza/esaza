@@ -2,10 +2,12 @@
 🧑‍🎓💻 Estoy estudiando un curso de Grado Superior de Desarrollo de Aplicaciones Web.
 
 ## Lenguajes:
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&color=grey)](https://github.com/ericsaza)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ericsaza)
 [![JAVA](https://img.shields.io/badge/JAVA-%23239120.svg?style=for-the-badge&color=orange)](https://www.java.com)
+[![XML](https://img.shields.io/badge/xml-%23239120.svg?style=for-the-badge&color=orange)](https://github.com/ericsaza)
 [![JSON](https://img.shields.io/badge/JSON-%23239120.svg?style=for-the-badge&logo=json&color=white&logoColor=blue)](https://github.com/ericsaza)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&color=grey)](https://github.com/ericsaza)
+[![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ericsaza)
 
 ## BD's:
 [![phhMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&color=black&logoColor=white)](https://www.phpmyadmin.net)
@@ -13,7 +15,7 @@
 [![ORACLE](https://img.shields.io/badge/ORACLE-%23239120.svg?style=for-the-badge&logo=oracle&color=black&logoColor=red)](https://www.oracle.com)
 
 ## Sistemas Operativos:
-[![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=white&logoColor=blue)](https://www.microsoft.com/es-es/windows)
+[![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=blue&logoColor=white)](https://www.microsoft.com/es-es/windows)
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?style=for-the-badge&logo=linux&color=orange&logoColor=black)](https://github.com/ericsaza)
 
 ## Aprendiendo:
