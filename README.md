@@ -28,4 +28,4 @@
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de GitHub:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&theme=transparent&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&theme=transparent&hide_border=true)
