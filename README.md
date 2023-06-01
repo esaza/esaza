@@ -11,7 +11,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ericsaza)
 
 ## BD's:
-[![phhMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&color=black&logoColor=blue)](https://www.phpmyadmin.net)
+[![phhMyAdmin](https://img.shields.io/badge/phpmyadmin-%23239120.svg?style=for-the-badge&logo=phpmyadmin&color=white&logoColor=orange)](https://www.phpmyadmin.net)
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red&color=black)](https://www.oracle.com)
 [![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=white&logoColor=darkgreen)](https://www.mongodb.com)
 
@@ -25,16 +25,5 @@
 ## Aprendiendo:
 [![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://www.python.org)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"></h1> GitHub Stats:
