@@ -4,13 +4,14 @@
 # Lenguajes:
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&color=grey)](https://github.com/ericsaza)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ericsaza)
+[![JAVA](https://img.shields.io/badge/JAVA-%23239120.svg?style=for-the-badge&color=orange)](https://www.java.com)
 
 # BD's:
-[![phhMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&color=black&logoColor=white)](https://github.com/ericsaza)
-[![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=darkgreen&logoColor=white)](https://github.com/ericsaza)
+[![phhMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&color=black&logoColor=white)](https://www.phpmyadmin.net)
+[![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=darkgreen&logoColor=white)](https://www.mongodb.com)
 
 # Aprendiendo:
-[![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://github.com/ericsaza)
+[![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://www.python.org)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
 <!--
 
