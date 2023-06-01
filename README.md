@@ -32,4 +32,4 @@
 [![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true)](https://github.com/ericsaza)<br>
 [![stat](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&hide_border=true&card_width=338&theme=transparent)](https://github.com/ericsaza)
 <p>
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)<br>
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)]<br>
