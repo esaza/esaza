@@ -29,6 +29,6 @@
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de GitHub:
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
-[![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true)](https://github.com/ericsaza)
+[![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true)](https://github.com/ericsaza)<br>
 [![stat](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&hide_border=true&card_width=338&theme=transparent)](https://github.com/ericsaza)
 
