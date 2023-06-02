@@ -31,9 +31,10 @@
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
 <br>
 [![stat](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&hide_border=true&card_width=338&theme=transparent)](https://github.com/ericsaza)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)<br>
-[![](https://visitcount.itsvg.in/api?id=ericsaza&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/ericsaza)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)
 [![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true)](https://github.com/ericsaza)
+<br>
+[![](https://visitcount.itsvg.in/api?id=ericsaza&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/ericsaza)
 
 # Redes sociales:
 <a href="https://www.linkedin.com/in/eric-salado-zafra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
