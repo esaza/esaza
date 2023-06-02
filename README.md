@@ -45,7 +45,7 @@
 
 # Redes sociales:
 <a href="https://www.linkedin.com/in/eric-salado-zafra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/channel/UC6MRdWqXmTEGxncDn9yVhLg/"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=red" alt="Youtube"></a>
 <a href="https://instagram.com/eric_sa_za/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 # Donaciones:
 [![Paypal](https://img.shields.io/badge/PAYPAL-F80000?style=for-the-badge&logo=paypal&logoColor=white&color=blue)](https://paypal.me/ericsaza)
