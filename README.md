@@ -1,5 +1,5 @@
 # About me:
-🧑‍🎓💻 Im studying a Superior Grade of .
+🧑‍🎓💻 I am studying a higher degree in web application development.
 
 ## Languages:
 [![JAVA](https://img.shields.io/badge/JAVA-%23239120.svg?style=for-the-badge&color=orange)](https://github.com/ericsaza)
@@ -34,7 +34,7 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> GitHub stats:
-[![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
+[![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent&locale=es)](https://github.com/ericsaza)
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)
 <br>
