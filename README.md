@@ -15,12 +15,19 @@
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red&color=black)](https://github.com/ericsaza)
 [![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=white&logoColor=darkgreen)](https://github.com/ericsaza)
 
-## Tecnologias:
+## Tecnologias y Servidores Web:
 [![Docker](https://img.shields.io/badge/docker-%23239120.svg?style=for-the-badge&logo=docker&color=blue&logoColor=white)](https://github.com/ericsaza)
+[![AWS](https://img.shields.io/badge/aws-%23239120.svg?style=for-the-badge&logo=amazon%20aws&color=262e3b&logoColor=f8991b)](https://github.com/ericsaza)
+[![Nginx](https://img.shields.io/badge/nginx-%23239120.svg?style=for-the-badge&logo=nginx&color=white&logoColor=green)](https://github.com/ericsaza)
+[![Apache](https://img.shields.io/badge/apache-%23239120.svg?style=for-the-badge&logo=apache&color=white&logoColor=red)](https://github.com/ericsaza)
 
 ## Sistemas Operativos:
 [![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=black&logoColor=blue)](https://github.com/ericsaza)
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?style=for-the-badge&logo=linux&color=orange&logoColor=black)](https://github.com/ericsaza)
+
+## Adobe:
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-%23239120.svg?style=for-the-badge&logo=adobe-photoshop&color=blue&logoColor=001e36)](https://github.com/ericsaza)
+[![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20dreamweaver-%23239120.svg?style=for-the-badge&logo=adobe-dreamweaver&color=ff61f6&logoColor=470137)](https://github.com/ericsaza)
 
 ## Aprendiendo:
 [![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://github.com/ericsaza)
