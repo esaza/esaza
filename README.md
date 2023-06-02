@@ -31,8 +31,17 @@
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
 [![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&theme=transparent&include_all_commits=true&layout=compact&hide_border=true)](https://github.com/ericsaza)<br>
 [![stat](https://github-readme-streak-stats.herokuapp.com/?user=ericsaza&hide_border=true&card_width=338&theme=transparent)](https://github.com/ericsaza)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)<br>
+[![](https://visitcount.itsvg.in/api?id=ericsaza&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/ericsaza)
 
 # Redes sociales:
 <a href="https://www.linkedin.com/in/eric-salado-zafra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/eric_sa_za?igshid=ZGUzMzM3NWJiOQ=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+# Donaciones:
+[![Paypal](https://img.shields.io/badge/PAYPAL-F80000?style=for-the-badge&logo=paypal&logoColor=white&color=blue)](https://github.com/ericsaza)
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="NAH8HJDNEGMUE" />
+<input type="image" src="https://pics.paypal.com/00/s/N2EwODQ5NTUtMzdkZC00ZTEyLWE0ZDEtY2RlODMwYTU4ODE4/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Botón Donar con PayPal" />
+<img alt="" border="0" src="https://www.paypal.com/es_ES/i/scr/pixel.gif" width="1" height="1" />
+</form>
