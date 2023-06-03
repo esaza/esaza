@@ -1,4 +1,4 @@
-# Sobre mi:
+# About me:
 🧑‍🎓💻 I am studying a higher degree in web application development.
 
 ## Languages:
