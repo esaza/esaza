@@ -21,7 +21,7 @@
 [![Nginx](https://img.shields.io/badge/nginx-%23239120.svg?style=for-the-badge&logo=nginx&color=white&logoColor=green)](https://github.com/ericsaza)
 [![Apache](https://img.shields.io/badge/apache-%23239120.svg?style=for-the-badge&logo=apache&color=white&logoColor=red)](https://github.com/ericsaza)
 
-## OS:
+## SO:
 [![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=black&logoColor=blue)](https://github.com/ericsaza)
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?style=for-the-badge&logo=linux&color=orange&logoColor=black)](https://github.com/ericsaza)
 
