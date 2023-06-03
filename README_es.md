@@ -1,3 +1,4 @@
+[English](https://github.com/ericsaza/ericsaza/blob/main/README.md) / Spanish
 # Sobre mi:
 🧑‍🎓💻 Estoy estudiando un Grado Superior de Desarrollo de Aplicaciones Web.
 
