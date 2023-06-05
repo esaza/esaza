@@ -33,6 +33,7 @@ English / [Spanish](https://github.com/ericsaza/ericsaza/blob/main/README_es.md)
 ## Learning:
 [![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://github.com/ericsaza)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
+[![Azure](https://img.shields.io/badge/azure-%23E34F26.svg?style=for-the-badge&logo=microsoft-azure&color=white&logoColor=blue)](https://github.com/ericsaza)
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> GitHub stats:
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
