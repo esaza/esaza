@@ -21,6 +21,7 @@ English / [Spanish](https://github.com/ericsaza/ericsaza/blob/main/README_es.md)
 [![AWS](https://img.shields.io/badge/aws-%23239120.svg?style=for-the-badge&logo=amazon%20aws&color=262e3b&logoColor=f8991b)](https://github.com/ericsaza)
 [![Nginx](https://img.shields.io/badge/nginx-%23239120.svg?style=for-the-badge&logo=nginx&color=white&logoColor=green)](https://github.com/ericsaza)
 [![Apache](https://img.shields.io/badge/apache-%23239120.svg?style=for-the-badge&logo=apache&color=white&logoColor=red)](https://github.com/ericsaza)
+[![ODOO](https://img.shields.io/badge/odoo-%23239120.svg?style=for-the-badge&logo=odoo&color=purple)](https://github.com/ericsaza)
 
 ## OS:
 [![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=black&logoColor=blue)](https://github.com/ericsaza)
