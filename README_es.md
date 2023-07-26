@@ -10,11 +10,17 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&color=black)](https://github.com/ericsaza)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/ericsaza)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ericsaza)
+[![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://github.com/ericsaza)
 
 ## BDs:
 [![phhMyAdmin](https://img.shields.io/badge/phpmyadmin-%23239120.svg?style=for-the-badge&logo=phpmyadmin&color=white&logoColor=orange)](https://github.com/ericsaza)
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red&color=black)](https://github.com/ericsaza)
 [![MondoDB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&color=white&logoColor=darkgreen)](https://github.com/ericsaza)
+
+## Frameworks:
+[![selenium](https://img.shields.io/badge/selenium-%23E34F26.svg?style=for-the-badge&logo=selenium&color=white&logoColor=darkgreen)](https://github.com/ericsaza)
+[![cucumber](https://img.shields.io/badge/cucumber-%23E34F26.svg?style=for-the-badge&logo=cucumber&color=darkgreen&logoColor=black)](https://github.com/ericsaza)
+[![protractor](https://img.shields.io/badge/protractor-%23E34F26.svg?style=for-the-badge&logo=protractor&color=red&logoColor=white)](https://github.com/ericsaza)
 
 ## Tecnologias y Servidores Web:
 [![Docker](https://img.shields.io/badge/docker-%23239120.svg?style=for-the-badge&logo=docker&color=blue&logoColor=white)](https://github.com/ericsaza)
@@ -22,6 +28,7 @@
 [![Nginx](https://img.shields.io/badge/nginx-%23239120.svg?style=for-the-badge&logo=nginx&color=white&logoColor=green)](https://github.com/ericsaza)
 [![Apache](https://img.shields.io/badge/apache-%23239120.svg?style=for-the-badge&logo=apache&color=white&logoColor=red)](https://github.com/ericsaza)
 [![ODOO](https://img.shields.io/badge/odoo-%23239120.svg?style=for-the-badge&logo=odoo&color=purple)](https://github.com/ericsaza)
+[![postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&color=black&logoColor=orange)](https://github.com/ericsaza)
 
 ## SO:
 [![Windows](https://img.shields.io/badge/windows-%23239120.svg?style=for-the-badge&logo=windows&color=black&logoColor=blue)](https://github.com/ericsaza)
@@ -32,8 +39,9 @@
 [![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20dreamweaver-%23239120.svg?style=for-the-badge&logo=adobe-dreamweaver&color=ff61f6&logoColor=470137)](https://github.com/ericsaza)
 
 ## Aprendiendo:
-[![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&color=blue&logoColor=yellow)](https://github.com/ericsaza)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)](https://github.com/ericsaza)
+[![Azure](https://img.shields.io/badge/azure-%23E34F26.svg?style=for-the-badge&logo=microsoft-azure&color=white&logoColor=blue)](https://github.com/ericsaza)
+[![react](https://img.shields.io/badge/jmeter-%23E34F26.svg?style=for-the-badge&logo=react&color=white&logoColor=blue)](https://github.com/ericsaza)
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de github:
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
