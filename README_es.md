@@ -1,7 +1,7 @@
 [Inglés](https://github.com/ericsaza/ericsaza/blob/main/README.md) / Español
 # Sobre mi:
 🧑‍🎓💻 Estoy estudiando un Grado Superior de Desarrollo de Aplicaciones Web.
-
+<p style="color: red">test</p>
 ## 🛠️ Mis habilidades
 | Lenguajes | Frameworks | Bases de datos | Servidores web y servicios | Aplicaciones, software y herramientas | SOs | IDEs |
 |-----------|------------|----------------|----------------------------|---------------------------------------|-----|------|
