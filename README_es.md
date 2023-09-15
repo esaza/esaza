@@ -8,7 +8,7 @@
 | ![lang](https://skillicons.dev/icons?i=java,python,php,html,javascript,css,scss,&theme=light&perline=4) | ![lang](https://skillicons.dev/icons?i=react,selenium,gherkin,bootstrap,&theme=light&perline=4) | ![bds](https://skillicons.dev/icons?i=mysql,mongo,,,,,&theme=light&perline=4) | ![web_servers_services](https://skillicons.dev/icons?i=aws,docker,nginx,,&theme=light&perline=4) | ![apps_sft_tools](https://skillicons.dev/icons?i=postman,git,github,wordpress,photoshop,illustrator&theme=light&perline=4) | ![ides](https://skillicons.dev/icons?i=vscode,eclipse&theme=light&perline=1) |
 
 ## Aprendiendo:
-![learning](https://skillicons.dev/icons?i=cs,angular,azure,jquery,go,firebase&theme=light)
+![learning](https://skillicons.dev/icons?i=cs,angular,azure,jquery,go,firebase,express&theme=light)
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de github:
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
