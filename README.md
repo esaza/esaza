@@ -2,11 +2,6 @@ English / [Spanish](https://github.com/ericsaza/ericsaza/blob/main/README_es.md)
 # About me:
 🧑‍🎓💻 I am studying a higher degree in web application development.
 
-## 🛠️ My skills
-| Languages | Frameworks | Databases | Web services & services | Aplications, software & tools  | IDEs |
-|-----------|------------------------|-----------|-------------|----------|----|
-| ![lang](https://skillicons.dev/icons?i=java,python,php,html,javascript,css,typescript&theme=light&perline=4) | ![lang](https://skillicons.dev/icons?i=react,selenium,gherkin,bootstrap,express,angular&theme=light&perline=4) | ![bds](https://skillicons.dev/icons?i=mysql,mongo,postgres,,,,&theme=light&perline=4) | ![web_servers_services](https://skillicons.dev/icons?i=aws,docker,nginx,,&theme=dark&perline=4) | ![apps_sft_tools](https://skillicons.dev/icons?i=postman,git,github,wordpress,photoshop,illustrator&theme=dark&perline=4) | ![ides](https://skillicons.dev/icons?i=vscode,eclipse&theme=light&perline=1) |
-
 ## Learning:
 ![learning](https://skillicons.dev/icons?i=cs,azure,jquery,go,firebase,astro&theme=light)
           
