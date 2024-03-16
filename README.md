@@ -18,8 +18,6 @@ English / [Spanish](https://github.com/ericsaza/ericsaza/blob/main/README_es.md)
 # Social networks:
 <a href="https://www.linkedin.com/in/eric-salado-zafra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/ericsaza"><img src="https://img.shields.io/badge/GitHub-%23E4405F.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="GitHub"></a>
-<a href="https://www.youtube.com/channel/UC6MRdWqXmTEGxncDn9yVhLg/"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=red" alt="Youtube"></a>
-<a href="https://instagram.com/eric_sa_za/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## Support
 <a href="https://www.buymeacoffee.com/ericsaza" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"/>
