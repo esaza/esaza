@@ -6,13 +6,13 @@
 ![learning](https://skillicons.dev/icons?i=cs,azure,jquery,go,firebase,astro&theme=light)
 
 # <img src="https://www.consumertribes.com/content/images/size/w100/2022/12/Consumer-Stats-Image-1.png" width="28px" alt="📊"> Estadísticas de github:
-[![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
-[![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericsaza&theme=transparent)](https://github.com/ericsaza)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericsaza&theme=transparent&utcOffset=8)](https://github.com/ericsaza)
+[![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esaza&theme=transparent)](https://github.com/ericsaza)
+[![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esaza&theme=transparent)](https://github.com/ericsaza)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esaza&theme=transparent&utcOffset=8)](https://github.com/esaza)
 <br>
-[![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsaza&layout=compact&theme=transparent&hide_border=true)](https://github.com/ericsaza)
+[![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=esaza&layout=compact&theme=transparent&hide_border=true)](https://github.com/esaza)
 <br>
-[![](https://visitcount.itsvg.in/api?id=ericsaza&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/ericsaza)
+[![](https://visitcount.itsvg.in/api?id=esaza&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/esaza)
 
 # Redes sociales:
 <a href="https://www.linkedin.com/in/eric-salado-zafra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
